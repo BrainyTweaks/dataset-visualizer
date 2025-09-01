@@ -1,7 +1,6 @@
-List of Dependencies:
-
 streamlit
 pandas
 matplotlib
 seaborn
 plotly
+
