@@ -1,17 +1,29 @@
-# Virtual environment folders
+# Virtual environment
 .venv/
 venv/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Jupyter notebook checkpoints
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Optional: datasets if too large
+# Dataset files (optional, if large)
 datasets/
 
-# OS files (macOS, Windows)
+# OS files
 .DS_Store
 Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Streamlit config (optional)
+.streamlit/
