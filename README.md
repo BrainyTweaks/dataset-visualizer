@@ -8,6 +8,9 @@ A **professional, interactive dataset visualization and analysis tool** built wi
 Designed for **data professionals, analysts, and researchers** to explore, analyze, and summarize CSV datasets efficiently.
 
 ---
+## The App
+
+Try the interactive dataset visualizer online: [![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-orange?logo=streamlit)](https://brainytweaks-dataset-visualizer-app-2exhks.streamlit.app)
 
 ## Features
 
